@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ezenhard/static/css/main.1a4af0b0.css",
+    "main.js": "/ezenhard/static/js/main.9a2aa006.js",
+    "static/js/453.0b30a3d5.chunk.js": "/ezenhard/static/js/453.0b30a3d5.chunk.js",
+    "index.html": "/ezenhard/index.html",
+    "main.1a4af0b0.css.map": "/ezenhard/static/css/main.1a4af0b0.css.map",
+    "main.9a2aa006.js.map": "/ezenhard/static/js/main.9a2aa006.js.map",
+    "453.0b30a3d5.chunk.js.map": "/ezenhard/static/js/453.0b30a3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a4af0b0.css",
+    "static/js/main.9a2aa006.js"
+  ]
+}
